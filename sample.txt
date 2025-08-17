@@ -1,2 +1,1 @@
-i have trsfered to local to git hub
-hello world to test server 
+welcome to world
